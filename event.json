@@ -111,22 +111,6 @@
         "contactEmail": "info@businessnetworkasia.ph",
         "contactPhone": "632-345-6789"
       }
-    },
-    {
-      "id": "f4f6",
-      "title": "sdf",
-      "type": "",
-      "location": "dfas",
-      "description": "sdfas",
-      "date": "2024-05-31T00:58",
-      "ticketPrice": "1233",
-      "capacity": "122",
-      "organizer": {
-        "name": "asdf",
-        "description": "asdf",
-        "contactEmail": "ad@sdfs",
-        "contactPhone": "242"
-      }
     }
   ]
 }
